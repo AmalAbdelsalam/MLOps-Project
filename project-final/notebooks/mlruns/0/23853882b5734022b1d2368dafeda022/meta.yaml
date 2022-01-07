@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/23853882b5734022b1d2368dafeda022/artifacts
+end_time: 1641590597370
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 23853882b5734022b1d2368dafeda022
+run_uuid: 23853882b5734022b1d2368dafeda022
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1641590443546
+status: 3
+tags: []
+user_id: CIT-USER
